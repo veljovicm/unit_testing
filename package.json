@@ -1,0 +1,23 @@
+{
+  "name": "unit_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 60000 "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veljovicm/unit_testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veljovicm/unit_testing/issues"
+  },
+  "homepage": "https://github.com/veljovicm/unit_testing#readme",
+  "dependencies": {
+    "mocha": "^10.2.0"
+  }
+}
